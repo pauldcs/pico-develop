@@ -1,0 +1,5 @@
+.env
+source/build
+source/env.sh
+*.DS_Store
+*__pycache__

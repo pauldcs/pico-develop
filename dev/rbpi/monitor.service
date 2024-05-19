@@ -1,0 +1,11 @@
+#/etc/systemd/system/monitor.service
+
+[Unit]
+Description=Monitors the /home/pico/posts directory
+
+[Service]
+ExecStart=/home/pico/monitor.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

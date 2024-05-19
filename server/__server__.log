@@ -1,0 +1,1446 @@
+INFO: 2024-05-22 16:48:11,807: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 16:48:23,748: Received signal: 2
+INFO: 2024-05-22 16:49:46,982: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 16:52:26,555: Accepted connection from ('192.168.1.109', 59518)
+INFO: 2024-05-22 16:53:03,455: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 16:53:05,728: Accepted connection from ('192.168.1.109', 59529)
+INFO: 2024-05-22 16:53:35,158: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 16:53:52,375: Accepted connection from ('192.168.1.109', 52066)
+INFO: 2024-05-22 16:55:46,104: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 16:55:47,556: Accepted connection from ('192.168.1.109', 52102)
+INFO: 2024-05-22 16:56:13,738: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 16:56:14,565: Accepted connection from ('192.168.1.109', 52108)
+INFO: 2024-05-22 16:56:29,563: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 16:57:13,789: Accepted connection from ('192.168.1.109', 64356)
+INFO: 2024-05-22 16:58:02,948: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 16:58:06,492: Accepted connection from ('192.168.1.109', 64370)
+INFO: 2024-05-22 16:58:18,588: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 16:58:40,301: Accepted connection from ('192.168.1.109', 57330)
+INFO: 2024-05-22 16:59:26,877: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 16:59:28,351: Accepted connection from ('192.168.1.109', 57344)
+INFO: 2024-05-22 16:59:34,900: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 17:01:28,308: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 17:01:44,248: Accepted connection from ('192.168.1.109', 50518)
+INFO: 2024-05-22 17:01:48,660: Client disconnected
+INFO: 2024-05-22 17:01:50,892: Accepted connection from ('192.168.1.109', 50519)
+INFO: 2024-05-22 17:01:55,664: Client disconnected
+INFO: 2024-05-22 17:01:57,880: Accepted connection from ('192.168.1.109', 50520)
+INFO: 2024-05-22 17:02:02,612: Client disconnected
+INFO: 2024-05-22 17:02:05,862: Accepted connection from ('192.168.1.109', 50521)
+INFO: 2024-05-22 17:02:09,671: Client disconnected
+INFO: 2024-05-22 17:02:11,929: Accepted connection from ('192.168.1.109', 50522)
+INFO: 2024-05-22 17:02:16,677: Client disconnected
+INFO: 2024-05-22 17:02:18,992: Accepted connection from ('192.168.1.109', 50523)
+INFO: 2024-05-22 17:02:23,679: Client disconnected
+INFO: 2024-05-22 17:02:25,926: Accepted connection from ('192.168.1.109', 50524)
+INFO: 2024-05-22 17:02:30,701: Client disconnected
+INFO: 2024-05-22 17:02:36,090: Accepted connection from ('192.168.1.109', 50525)
+INFO: 2024-05-22 17:02:37,631: Client disconnected
+INFO: 2024-05-22 17:02:40,033: Accepted connection from ('192.168.1.109', 50526)
+INFO: 2024-05-22 17:02:44,692: Client disconnected
+INFO: 2024-05-22 17:02:46,951: Accepted connection from ('192.168.1.109', 50527)
+INFO: 2024-05-22 17:02:51,820: Client disconnected
+INFO: 2024-05-22 17:02:54,041: Accepted connection from ('192.168.1.109', 50528)
+INFO: 2024-05-22 17:02:58,700: Client disconnected
+INFO: 2024-05-22 17:03:00,974: Accepted connection from ('192.168.1.109', 50529)
+INFO: 2024-05-22 17:03:05,705: Client disconnected
+INFO: 2024-05-22 17:03:08,052: Accepted connection from ('192.168.1.109', 50530)
+INFO: 2024-05-22 17:03:12,710: Client disconnected
+INFO: 2024-05-22 17:03:14,996: Accepted connection from ('192.168.1.109', 50531)
+INFO: 2024-05-22 17:03:19,658: Client disconnected
+INFO: 2024-05-22 17:03:22,069: Accepted connection from ('192.168.1.109', 50532)
+INFO: 2024-05-22 17:03:26,718: Client disconnected
+INFO: 2024-05-22 17:03:29,066: Accepted connection from ('192.168.1.109', 50533)
+INFO: 2024-05-22 17:03:33,722: Client disconnected
+INFO: 2024-05-22 17:03:36,028: Accepted connection from ('192.168.1.109', 50534)
+INFO: 2024-05-22 17:03:40,726: Client disconnected
+INFO: 2024-05-22 17:03:43,073: Accepted connection from ('192.168.1.109', 50535)
+INFO: 2024-05-22 17:03:47,698: Client disconnected
+INFO: 2024-05-22 17:03:50,049: Accepted connection from ('192.168.1.109', 50536)
+INFO: 2024-05-22 17:03:54,736: Client disconnected
+INFO: 2024-05-22 17:03:58,146: Accepted connection from ('192.168.1.109', 50537)
+INFO: 2024-05-22 17:04:01,745: Client disconnected
+INFO: 2024-05-22 17:04:04,084: Accepted connection from ('192.168.1.109', 50538)
+INFO: 2024-05-22 17:04:08,698: Client disconnected
+INFO: 2024-05-22 17:04:11,120: Accepted connection from ('192.168.1.109', 50539)
+INFO: 2024-05-22 17:04:15,712: Client disconnected
+INFO: 2024-05-22 17:04:18,126: Accepted connection from ('192.168.1.109', 50540)
+INFO: 2024-05-22 17:04:22,813: Client disconnected
+INFO: 2024-05-22 17:04:25,237: Accepted connection from ('192.168.1.109', 50541)
+INFO: 2024-05-22 17:04:29,773: Client disconnected
+INFO: 2024-05-22 17:04:32,250: Accepted connection from ('192.168.1.109', 50542)
+INFO: 2024-05-22 17:04:36,779: Client disconnected
+INFO: 2024-05-22 17:04:42,188: Accepted connection from ('192.168.1.109', 50543)
+INFO: 2024-05-22 17:04:43,784: Client disconnected
+INFO: 2024-05-22 17:04:46,228: Accepted connection from ('192.168.1.109', 50544)
+INFO: 2024-05-22 17:04:50,763: Client disconnected
+INFO: 2024-05-22 17:04:53,295: Accepted connection from ('192.168.1.109', 50545)
+INFO: 2024-05-22 17:04:57,731: Client disconnected
+INFO: 2024-05-22 17:05:00,261: Accepted connection from ('192.168.1.109', 50546)
+INFO: 2024-05-22 17:05:04,796: Client disconnected
+INFO: 2024-05-22 17:05:07,269: Accepted connection from ('192.168.1.109', 50547)
+INFO: 2024-05-22 17:05:11,799: Client disconnected
+INFO: 2024-05-22 17:05:14,205: Accepted connection from ('192.168.1.109', 50548)
+INFO: 2024-05-22 17:05:18,740: Client disconnected
+INFO: 2024-05-22 17:05:21,280: Accepted connection from ('192.168.1.109', 50549)
+INFO: 2024-05-22 17:05:25,809: Client disconnected
+INFO: 2024-05-22 17:05:28,282: Accepted connection from ('192.168.1.109', 50550)
+INFO: 2024-05-22 17:05:32,813: Client disconnected
+INFO: 2024-05-22 17:05:35,279: Accepted connection from ('192.168.1.109', 50551)
+INFO: 2024-05-22 17:05:39,751: Client disconnected
+INFO: 2024-05-22 17:05:42,289: Accepted connection from ('192.168.1.109', 50552)
+INFO: 2024-05-22 17:05:46,772: Client disconnected
+INFO: 2024-05-22 17:05:49,438: Accepted connection from ('192.168.1.109', 50553)
+INFO: 2024-05-22 17:05:53,826: Client disconnected
+INFO: 2024-05-22 17:05:58,779: Accepted connection from ('192.168.1.109', 50554)
+INFO: 2024-05-22 17:06:00,771: Client disconnected
+INFO: 2024-05-22 17:06:06,518: Accepted connection from ('192.168.1.109', 50555)
+INFO: 2024-05-22 17:06:08,272: Client disconnected
+INFO: 2024-05-22 17:06:11,406: Accepted connection from ('192.168.1.109', 50556)
+INFO: 2024-05-22 17:06:16,311: Client disconnected
+INFO: 2024-05-22 17:06:18,299: Accepted connection from ('192.168.1.109', 50557)
+INFO: 2024-05-22 17:06:23,315: Client disconnected
+INFO: 2024-05-22 17:06:25,426: Accepted connection from ('192.168.1.109', 50558)
+INFO: 2024-05-22 17:06:30,325: Client disconnected
+INFO: 2024-05-22 17:06:32,419: Accepted connection from ('192.168.1.109', 50559)
+INFO: 2024-05-22 17:06:37,326: Client disconnected
+INFO: 2024-05-22 17:06:39,426: Accepted connection from ('192.168.1.109', 50560)
+INFO: 2024-05-22 17:06:44,329: Client disconnected
+INFO: 2024-05-22 17:06:46,462: Accepted connection from ('192.168.1.109', 50561)
+INFO: 2024-05-22 17:06:51,295: Client disconnected
+INFO: 2024-05-22 17:06:53,431: Accepted connection from ('192.168.1.109', 50562)
+INFO: 2024-05-22 17:06:58,338: Client disconnected
+INFO: 2024-05-22 17:07:00,359: Accepted connection from ('192.168.1.109', 50563)
+INFO: 2024-05-22 17:07:05,300: Client disconnected
+INFO: 2024-05-22 17:07:07,371: Accepted connection from ('192.168.1.109', 50564)
+INFO: 2024-05-22 17:07:12,308: Client disconnected
+INFO: 2024-05-22 17:07:14,380: Accepted connection from ('192.168.1.109', 50565)
+INFO: 2024-05-22 17:07:19,351: Client disconnected
+INFO: 2024-05-22 17:07:37,550: Accepted connection from ('192.168.1.109', 51969)
+INFO: 2024-05-22 17:07:37,550: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 51969)>
+INFO: 2024-05-22 17:07:37,551: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:07:42,330: Client disconnected
+INFO: 2024-05-22 17:07:44,554: Accepted connection from ('192.168.1.109', 51970)
+INFO: 2024-05-22 17:07:44,554: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 51970)>
+INFO: 2024-05-22 17:07:44,555: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:07:49,334: Client disconnected
+INFO: 2024-05-22 17:07:51,914: Accepted connection from ('192.168.1.109', 51971)
+INFO: 2024-05-22 17:07:51,914: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 51971)>
+INFO: 2024-05-22 17:07:51,914: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:07:56,831: Client disconnected
+INFO: 2024-05-22 17:07:59,542: Accepted connection from ('192.168.1.109', 51972)
+INFO: 2024-05-22 17:07:59,542: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 51972)>
+INFO: 2024-05-22 17:07:59,542: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:08:04,326: Client disconnected
+INFO: 2024-05-22 17:08:06,546: Accepted connection from ('192.168.1.109', 51973)
+INFO: 2024-05-22 17:08:06,547: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 51973)>
+INFO: 2024-05-22 17:08:06,547: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:08:11,329: Client disconnected
+INFO: 2024-05-22 17:08:13,528: Accepted connection from ('192.168.1.109', 51974)
+INFO: 2024-05-22 17:08:13,528: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 51974)>
+INFO: 2024-05-22 17:08:13,528: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:08:18,334: Client disconnected
+INFO: 2024-05-22 17:08:20,553: Accepted connection from ('192.168.1.109', 51975)
+INFO: 2024-05-22 17:08:20,554: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 51975)>
+INFO: 2024-05-22 17:08:20,554: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:08:25,338: Client disconnected
+INFO: 2024-05-22 17:08:27,569: Accepted connection from ('192.168.1.109', 51976)
+INFO: 2024-05-22 17:08:27,569: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 51976)>
+INFO: 2024-05-22 17:08:27,569: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:08:32,343: Client disconnected
+INFO: 2024-05-22 17:08:34,566: Accepted connection from ('192.168.1.109', 51977)
+INFO: 2024-05-22 17:08:34,567: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 51977)>
+INFO: 2024-05-22 17:08:34,567: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:08:39,346: Client disconnected
+INFO: 2024-05-22 17:08:41,691: Accepted connection from ('192.168.1.109', 51978)
+INFO: 2024-05-22 17:08:41,692: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 51978)>
+INFO: 2024-05-22 17:08:41,692: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:08:46,352: Client disconnected
+INFO: 2024-05-22 17:08:48,582: Accepted connection from ('192.168.1.109', 51979)
+INFO: 2024-05-22 17:08:48,582: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 51979)>
+INFO: 2024-05-22 17:08:48,582: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:08:53,354: Client disconnected
+INFO: 2024-05-22 17:08:55,697: Accepted connection from ('192.168.1.109', 51980)
+INFO: 2024-05-22 17:08:55,698: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 51980)>
+INFO: 2024-05-22 17:08:55,698: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:09:00,359: Client disconnected
+INFO: 2024-05-22 17:09:02,702: Accepted connection from ('192.168.1.109', 51981)
+INFO: 2024-05-22 17:09:02,702: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 51981)>
+INFO: 2024-05-22 17:09:02,702: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:09:07,364: Client disconnected
+INFO: 2024-05-22 17:09:09,611: Accepted connection from ('192.168.1.109', 51982)
+INFO: 2024-05-22 17:09:09,611: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 51982)>
+INFO: 2024-05-22 17:09:09,611: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:12:00,877: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 17:12:02,961: Accepted connection from ('192.168.1.109', 49754)
+INFO: 2024-05-22 17:12:05,541: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49754)>
+INFO: 2024-05-22 17:12:05,541: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:12:05,645: Client disconnected
+INFO: 2024-05-22 17:12:05,750: Accepted connection from ('192.168.1.109', 49755)
+INFO: 2024-05-22 17:12:05,750: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49755)>
+INFO: 2024-05-22 17:12:05,751: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:12:09,964: Client disconnected
+INFO: 2024-05-22 17:12:12,066: Accepted connection from ('192.168.1.109', 49756)
+INFO: 2024-05-22 17:12:12,067: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49756)>
+INFO: 2024-05-22 17:12:12,067: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:12:16,969: Client disconnected
+INFO: 2024-05-22 17:12:19,070: Accepted connection from ('192.168.1.109', 49757)
+INFO: 2024-05-22 17:12:19,071: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49757)>
+INFO: 2024-05-22 17:12:19,071: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:12:23,972: Client disconnected
+INFO: 2024-05-22 17:12:25,991: Accepted connection from ('192.168.1.109', 49758)
+INFO: 2024-05-22 17:12:25,991: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49758)>
+INFO: 2024-05-22 17:12:25,992: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:12:31,112: Client disconnected
+INFO: 2024-05-22 17:12:33,000: Accepted connection from ('192.168.1.109', 49759)
+INFO: 2024-05-22 17:12:33,001: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49759)>
+INFO: 2024-05-22 17:12:33,001: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:12:37,951: Client disconnected
+INFO: 2024-05-22 17:12:39,180: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 17:12:40,022: Accepted connection from ('192.168.1.109', 49760)
+INFO: 2024-05-22 17:12:40,022: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49760)>
+INFO: 2024-05-22 17:12:40,023: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:12:44,985: Client disconnected
+INFO: 2024-05-22 17:12:47,022: Accepted connection from ('192.168.1.109', 49761)
+INFO: 2024-05-22 17:12:47,022: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49761)>
+INFO: 2024-05-22 17:12:47,023: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:12:51,990: Client disconnected
+INFO: 2024-05-22 17:12:54,092: Accepted connection from ('192.168.1.109', 49762)
+INFO: 2024-05-22 17:12:54,092: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49762)>
+INFO: 2024-05-22 17:12:54,092: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:12:58,971: Client disconnected
+INFO: 2024-05-22 17:13:01,573: Accepted connection from ('192.168.1.109', 49763)
+INFO: 2024-05-22 17:13:01,574: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49763)>
+INFO: 2024-05-22 17:13:01,574: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:13:06,492: Client disconnected
+INFO: 2024-05-22 17:13:09,080: Accepted connection from ('192.168.1.109', 49764)
+INFO: 2024-05-22 17:13:09,081: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49764)>
+INFO: 2024-05-22 17:13:09,081: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:13:13,986: Client disconnected
+INFO: 2024-05-22 17:13:16,134: Accepted connection from ('192.168.1.109', 49765)
+INFO: 2024-05-22 17:13:16,135: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49765)>
+INFO: 2024-05-22 17:13:16,135: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:13:20,989: Client disconnected
+INFO: 2024-05-22 17:13:23,083: Accepted connection from ('192.168.1.109', 49766)
+INFO: 2024-05-22 17:13:23,084: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49766)>
+INFO: 2024-05-22 17:13:23,084: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:13:27,995: Client disconnected
+INFO: 2024-05-22 17:13:30,097: Accepted connection from ('192.168.1.109', 49767)
+INFO: 2024-05-22 17:13:30,097: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49767)>
+INFO: 2024-05-22 17:13:30,098: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:13:34,966: Client disconnected
+INFO: 2024-05-22 17:13:37,220: Accepted connection from ('192.168.1.109', 49768)
+INFO: 2024-05-22 17:13:37,221: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49768)>
+INFO: 2024-05-22 17:13:37,221: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:13:41,970: Client disconnected
+INFO: 2024-05-22 17:13:44,227: Accepted connection from ('192.168.1.109', 49769)
+INFO: 2024-05-22 17:13:44,227: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49769)>
+INFO: 2024-05-22 17:13:44,227: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:13:48,966: Client disconnected
+INFO: 2024-05-22 17:13:51,230: Accepted connection from ('192.168.1.109', 49770)
+INFO: 2024-05-22 17:13:51,231: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49770)>
+INFO: 2024-05-22 17:13:51,231: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:13:55,972: Client disconnected
+INFO: 2024-05-22 17:13:59,082: Accepted connection from ('192.168.1.109', 49771)
+INFO: 2024-05-22 17:13:59,083: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49771)>
+INFO: 2024-05-22 17:13:59,083: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:14:03,973: Client disconnected
+INFO: 2024-05-22 17:14:07,069: Accepted connection from ('192.168.1.109', 49772)
+INFO: 2024-05-22 17:14:07,070: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49772)>
+INFO: 2024-05-22 17:14:07,070: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:14:11,985: Client disconnected
+INFO: 2024-05-22 17:14:14,324: Accepted connection from ('192.168.1.109', 49773)
+INFO: 2024-05-22 17:14:14,325: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49773)>
+INFO: 2024-05-22 17:14:14,325: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:14:18,975: Client disconnected
+INFO: 2024-05-22 17:14:21,214: Accepted connection from ('192.168.1.109', 49774)
+INFO: 2024-05-22 17:14:21,215: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49774)>
+INFO: 2024-05-22 17:14:21,215: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:14:25,979: Client disconnected
+INFO: 2024-05-22 17:14:28,180: Accepted connection from ('192.168.1.109', 49775)
+INFO: 2024-05-22 17:14:28,180: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49775)>
+INFO: 2024-05-22 17:14:28,180: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:14:32,998: Client disconnected
+INFO: 2024-05-22 17:14:35,189: Accepted connection from ('192.168.1.109', 49776)
+INFO: 2024-05-22 17:14:35,190: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49776)>
+INFO: 2024-05-22 17:14:35,190: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:14:40,001: Client disconnected
+INFO: 2024-05-22 17:14:42,194: Accepted connection from ('192.168.1.109', 49777)
+INFO: 2024-05-22 17:14:42,195: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49777)>
+INFO: 2024-05-22 17:14:42,195: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:14:46,982: Client disconnected
+INFO: 2024-05-22 17:14:49,233: Accepted connection from ('192.168.1.109', 49778)
+INFO: 2024-05-22 17:14:49,234: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49778)>
+INFO: 2024-05-22 17:14:49,234: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:14:54,013: Client disconnected
+INFO: 2024-05-22 17:14:56,234: Accepted connection from ('192.168.1.109', 49779)
+INFO: 2024-05-22 17:14:56,234: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49779)>
+INFO: 2024-05-22 17:14:56,235: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:15:01,015: Client disconnected
+INFO: 2024-05-22 17:15:03,239: Accepted connection from ('192.168.1.109', 49780)
+INFO: 2024-05-22 17:15:03,239: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49780)>
+INFO: 2024-05-22 17:15:03,240: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:15:08,020: Client disconnected
+INFO: 2024-05-22 17:15:10,255: Accepted connection from ('192.168.1.109', 49781)
+INFO: 2024-05-22 17:15:10,255: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49781)>
+INFO: 2024-05-22 17:15:10,256: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:15:17,992: Client disconnected
+INFO: 2024-05-22 17:15:20,253: Accepted connection from ('192.168.1.109', 49782)
+INFO: 2024-05-22 17:15:20,253: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 49782)>
+INFO: 2024-05-22 17:15:20,253: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:15:25,099: Client disconnected
+INFO: 2024-05-22 17:15:41,955: Accepted connection from ('192.168.1.109', 58508)
+INFO: 2024-05-22 17:15:41,955: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58508)>
+INFO: 2024-05-22 17:15:41,956: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:15:46,603: Client disconnected
+INFO: 2024-05-22 17:15:48,924: Accepted connection from ('192.168.1.109', 58509)
+INFO: 2024-05-22 17:15:48,925: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58509)>
+INFO: 2024-05-22 17:15:48,925: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:15:53,609: Client disconnected
+INFO: 2024-05-22 17:15:56,807: Accepted connection from ('192.168.1.109', 58510)
+INFO: 2024-05-22 17:15:56,807: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58510)>
+INFO: 2024-05-22 17:15:56,807: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:16:01,608: Client disconnected
+INFO: 2024-05-22 17:16:03,782: Accepted connection from ('192.168.1.109', 58511)
+INFO: 2024-05-22 17:16:03,782: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58511)>
+INFO: 2024-05-22 17:16:03,783: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:16:08,599: Client disconnected
+INFO: 2024-05-22 17:16:10,816: Accepted connection from ('192.168.1.109', 58512)
+INFO: 2024-05-22 17:16:10,817: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58512)>
+INFO: 2024-05-22 17:16:10,817: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:16:15,512: Client disconnected
+INFO: 2024-05-22 17:16:17,833: Accepted connection from ('192.168.1.109', 58513)
+INFO: 2024-05-22 17:16:17,833: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58513)>
+INFO: 2024-05-22 17:16:17,833: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:16:22,607: Client disconnected
+INFO: 2024-05-22 17:16:24,842: Accepted connection from ('192.168.1.109', 58514)
+INFO: 2024-05-22 17:16:24,842: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58514)>
+INFO: 2024-05-22 17:16:24,842: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:16:29,611: Client disconnected
+INFO: 2024-05-22 17:16:31,867: Accepted connection from ('192.168.1.109', 58515)
+INFO: 2024-05-22 17:16:31,867: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58515)>
+INFO: 2024-05-22 17:16:31,867: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:16:36,517: Client disconnected
+INFO: 2024-05-22 17:16:38,843: Accepted connection from ('192.168.1.109', 58516)
+INFO: 2024-05-22 17:16:38,843: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58516)>
+INFO: 2024-05-22 17:16:38,843: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:16:43,509: Client disconnected
+INFO: 2024-05-22 17:16:45,868: Accepted connection from ('192.168.1.109', 58517)
+INFO: 2024-05-22 17:16:45,869: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58517)>
+INFO: 2024-05-22 17:16:45,869: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:16:50,519: Client disconnected
+INFO: 2024-05-22 17:16:52,974: Accepted connection from ('192.168.1.109', 58518)
+INFO: 2024-05-22 17:16:52,974: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58518)>
+INFO: 2024-05-22 17:16:52,975: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:16:57,542: Client disconnected
+INFO: 2024-05-22 17:16:59,977: Accepted connection from ('192.168.1.109', 58519)
+INFO: 2024-05-22 17:16:59,977: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58519)>
+INFO: 2024-05-22 17:16:59,977: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:17:04,515: Client disconnected
+INFO: 2024-05-22 17:17:07,016: Accepted connection from ('192.168.1.109', 58520)
+INFO: 2024-05-22 17:17:07,017: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58520)>
+INFO: 2024-05-22 17:17:07,017: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:17:12,064: Client disconnected
+INFO: 2024-05-22 17:17:14,882: Accepted connection from ('192.168.1.109', 58521)
+INFO: 2024-05-22 17:17:14,882: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58521)>
+INFO: 2024-05-22 17:17:14,882: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:17:19,533: Client disconnected
+INFO: 2024-05-22 17:17:24,899: Accepted connection from ('192.168.1.109', 58522)
+INFO: 2024-05-22 17:17:24,900: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58522)>
+INFO: 2024-05-22 17:17:24,900: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:17:29,578: Client disconnected
+INFO: 2024-05-22 17:17:31,926: Accepted connection from ('192.168.1.109', 58523)
+INFO: 2024-05-22 17:17:31,926: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58523)>
+INFO: 2024-05-22 17:17:31,926: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:17:36,522: Client disconnected
+INFO: 2024-05-22 17:17:38,922: Accepted connection from ('192.168.1.109', 58524)
+INFO: 2024-05-22 17:17:38,922: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58524)>
+INFO: 2024-05-22 17:17:38,923: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:17:43,538: Client disconnected
+INFO: 2024-05-22 17:17:45,926: Accepted connection from ('192.168.1.109', 58525)
+INFO: 2024-05-22 17:17:45,926: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58525)>
+INFO: 2024-05-22 17:17:45,926: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:17:50,533: Client disconnected
+INFO: 2024-05-22 17:17:53,059: Accepted connection from ('192.168.1.109', 58526)
+INFO: 2024-05-22 17:17:53,059: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58526)>
+INFO: 2024-05-22 17:17:53,060: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:17:58,033: Client disconnected
+INFO: 2024-05-22 17:18:00,949: Accepted connection from ('192.168.1.109', 58527)
+INFO: 2024-05-22 17:18:00,949: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58527)>
+INFO: 2024-05-22 17:18:00,949: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:18:05,581: Client disconnected
+INFO: 2024-05-22 17:18:08,148: Accepted connection from ('192.168.1.109', 58528)
+INFO: 2024-05-22 17:18:08,148: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58528)>
+INFO: 2024-05-22 17:18:08,148: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:18:13,038: Client disconnected
+INFO: 2024-05-22 17:18:15,996: Accepted connection from ('192.168.1.109', 58529)
+INFO: 2024-05-22 17:18:15,997: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58529)>
+INFO: 2024-05-22 17:18:15,997: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:18:20,574: Client disconnected
+INFO: 2024-05-22 17:18:23,039: Accepted connection from ('192.168.1.109', 58530)
+INFO: 2024-05-22 17:18:23,039: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58530)>
+INFO: 2024-05-22 17:18:23,039: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:18:28,038: Client disconnected
+INFO: 2024-05-22 17:18:31,027: Accepted connection from ('192.168.1.109', 58531)
+INFO: 2024-05-22 17:18:31,028: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58531)>
+INFO: 2024-05-22 17:18:31,028: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:18:35,565: Client disconnected
+INFO: 2024-05-22 17:18:38,003: Accepted connection from ('192.168.1.109', 58532)
+INFO: 2024-05-22 17:18:38,004: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58532)>
+INFO: 2024-05-22 17:18:38,004: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:18:42,571: Client disconnected
+INFO: 2024-05-22 17:18:45,040: Accepted connection from ('192.168.1.109', 58533)
+INFO: 2024-05-22 17:18:45,040: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58533)>
+INFO: 2024-05-22 17:18:45,041: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:18:50,064: Client disconnected
+INFO: 2024-05-22 17:18:53,247: Accepted connection from ('192.168.1.109', 58534)
+INFO: 2024-05-22 17:18:53,247: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58534)>
+INFO: 2024-05-22 17:18:53,247: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:18:58,051: Client disconnected
+INFO: 2024-05-22 17:19:01,135: Accepted connection from ('192.168.1.109', 58535)
+INFO: 2024-05-22 17:19:01,136: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58535)>
+INFO: 2024-05-22 17:19:01,138: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:19:09,052: Client disconnected
+INFO: 2024-05-22 17:19:09,153: Accepted connection from ('192.168.1.109', 58536)
+INFO: 2024-05-22 17:19:09,153: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58536)>
+INFO: 2024-05-22 17:19:09,153: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:19:14,059: Client disconnected
+INFO: 2024-05-22 17:19:17,378: Accepted connection from ('192.168.1.109', 58537)
+INFO: 2024-05-22 17:19:17,378: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58537)>
+INFO: 2024-05-22 17:19:17,378: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:19:22,057: Client disconnected
+INFO: 2024-05-22 17:19:25,071: Accepted connection from ('192.168.1.109', 58538)
+INFO: 2024-05-22 17:19:25,072: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58538)>
+INFO: 2024-05-22 17:19:25,072: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:19:30,121: Client disconnected
+INFO: 2024-05-22 17:19:32,090: Accepted connection from ('192.168.1.109', 58539)
+INFO: 2024-05-22 17:19:32,090: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58539)>
+INFO: 2024-05-22 17:19:32,090: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:19:37,128: Client disconnected
+INFO: 2024-05-22 17:19:39,094: Accepted connection from ('192.168.1.109', 58540)
+INFO: 2024-05-22 17:19:39,094: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58540)>
+INFO: 2024-05-22 17:19:39,094: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:19:44,065: Client disconnected
+INFO: 2024-05-22 17:19:46,133: Accepted connection from ('192.168.1.109', 58541)
+INFO: 2024-05-22 17:19:46,133: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58541)>
+INFO: 2024-05-22 17:19:46,133: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:19:51,136: Client disconnected
+INFO: 2024-05-22 17:19:54,174: Accepted connection from ('192.168.1.109', 58542)
+INFO: 2024-05-22 17:19:54,174: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58542)>
+INFO: 2024-05-22 17:19:54,174: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:19:59,070: Client disconnected
+INFO: 2024-05-22 17:20:01,228: Accepted connection from ('192.168.1.109', 58543)
+INFO: 2024-05-22 17:20:01,228: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58543)>
+INFO: 2024-05-22 17:20:01,228: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:20:06,071: Client disconnected
+INFO: 2024-05-22 17:20:09,177: Accepted connection from ('192.168.1.109', 58544)
+INFO: 2024-05-22 17:20:09,177: <- 6 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 58544)>
+INFO: 2024-05-22 17:20:09,177: dumping data...
+68 65 6C 6C 6F 00                                                                                 hello.
+
+INFO: 2024-05-22 17:22:01,107: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 17:22:02,922: Accepted connection from ('192.168.1.109', 55644)
+INFO: 2024-05-22 17:22:02,922: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55644)>
+INFO: 2024-05-22 17:22:02,923: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:22:07,904: Client disconnected
+INFO: 2024-05-22 17:22:10,795: Accepted connection from ('192.168.1.109', 55645)
+INFO: 2024-05-22 17:22:10,795: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55645)>
+INFO: 2024-05-22 17:22:10,796: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:22:15,891: Client disconnected
+INFO: 2024-05-22 17:22:17,881: Accepted connection from ('192.168.1.109', 55646)
+INFO: 2024-05-22 17:22:17,882: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55646)>
+INFO: 2024-05-22 17:22:17,882: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:22:22,896: Client disconnected
+INFO: 2024-05-22 17:22:24,870: Accepted connection from ('192.168.1.109', 55647)
+INFO: 2024-05-22 17:22:24,871: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55647)>
+INFO: 2024-05-22 17:22:24,871: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:22:29,899: Client disconnected
+INFO: 2024-05-22 17:22:32,944: Accepted connection from ('192.168.1.109', 55648)
+INFO: 2024-05-22 17:22:32,945: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55648)>
+INFO: 2024-05-22 17:22:32,945: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:22:37,886: Client disconnected
+INFO: 2024-05-22 17:22:39,803: Accepted connection from ('192.168.1.109', 55649)
+INFO: 2024-05-22 17:22:39,803: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55649)>
+INFO: 2024-05-22 17:22:39,803: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:22:44,894: Client disconnected
+INFO: 2024-05-22 17:22:46,849: Accepted connection from ('192.168.1.109', 55650)
+INFO: 2024-05-22 17:22:46,849: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55650)>
+INFO: 2024-05-22 17:22:46,849: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:22:51,790: Client disconnected
+INFO: 2024-05-22 17:22:54,822: Accepted connection from ('192.168.1.109', 55651)
+INFO: 2024-05-22 17:22:54,823: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55651)>
+INFO: 2024-05-22 17:22:54,823: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:22:59,788: Client disconnected
+INFO: 2024-05-22 17:23:01,970: Accepted connection from ('192.168.1.109', 55652)
+INFO: 2024-05-22 17:23:01,971: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55652)>
+INFO: 2024-05-22 17:23:01,971: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:23:06,886: Client disconnected
+INFO: 2024-05-22 17:23:08,884: Accepted connection from ('192.168.1.109', 55653)
+INFO: 2024-05-22 17:23:08,884: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55653)>
+INFO: 2024-05-22 17:23:08,884: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:23:13,891: Client disconnected
+INFO: 2024-05-22 17:23:15,889: Accepted connection from ('192.168.1.109', 55654)
+INFO: 2024-05-22 17:23:15,889: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55654)>
+INFO: 2024-05-22 17:23:15,889: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:23:20,896: Client disconnected
+INFO: 2024-05-22 17:23:22,905: Accepted connection from ('192.168.1.109', 55655)
+INFO: 2024-05-22 17:23:22,905: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55655)>
+INFO: 2024-05-22 17:23:22,905: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:23:27,900: Client disconnected
+INFO: 2024-05-22 17:23:29,970: Accepted connection from ('192.168.1.109', 55656)
+INFO: 2024-05-22 17:23:29,971: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55656)>
+INFO: 2024-05-22 17:23:29,971: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:23:34,903: Client disconnected
+INFO: 2024-05-22 17:23:36,879: Accepted connection from ('192.168.1.109', 55657)
+INFO: 2024-05-22 17:23:36,879: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55657)>
+INFO: 2024-05-22 17:23:36,880: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:23:41,908: Client disconnected
+INFO: 2024-05-22 17:23:43,891: Accepted connection from ('192.168.1.109', 55658)
+INFO: 2024-05-22 17:23:43,891: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55658)>
+INFO: 2024-05-22 17:23:43,892: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:23:48,912: Client disconnected
+INFO: 2024-05-22 17:23:50,884: Accepted connection from ('192.168.1.109', 55659)
+INFO: 2024-05-22 17:23:50,885: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55659)>
+INFO: 2024-05-22 17:23:50,885: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:23:55,916: Client disconnected
+INFO: 2024-05-22 17:23:57,889: Accepted connection from ('192.168.1.109', 55660)
+INFO: 2024-05-22 17:23:57,889: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55660)>
+INFO: 2024-05-22 17:23:57,889: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:24:02,921: Client disconnected
+INFO: 2024-05-22 17:24:04,896: Accepted connection from ('192.168.1.109', 55661)
+INFO: 2024-05-22 17:24:04,896: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55661)>
+INFO: 2024-05-22 17:24:04,897: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:24:09,929: Client disconnected
+INFO: 2024-05-22 17:24:11,899: Accepted connection from ('192.168.1.109', 55662)
+INFO: 2024-05-22 17:24:11,899: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55662)>
+INFO: 2024-05-22 17:24:11,899: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:24:16,808: Client disconnected
+INFO: 2024-05-22 17:24:18,909: Accepted connection from ('192.168.1.109', 55663)
+INFO: 2024-05-22 17:24:18,909: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55663)>
+INFO: 2024-05-22 17:24:18,909: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:24:24,152: Client disconnected
+INFO: 2024-05-22 17:24:26,392: Accepted connection from ('192.168.1.109', 55664)
+INFO: 2024-05-22 17:24:26,392: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55664)>
+INFO: 2024-05-22 17:24:26,392: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:24:31,314: Client disconnected
+INFO: 2024-05-22 17:24:36,837: Accepted connection from ('192.168.1.109', 55665)
+INFO: 2024-05-22 17:24:36,837: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55665)>
+INFO: 2024-05-22 17:24:36,837: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:24:41,873: Client disconnected
+INFO: 2024-05-22 17:24:44,937: Accepted connection from ('192.168.1.109', 55666)
+INFO: 2024-05-22 17:24:44,938: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55666)>
+INFO: 2024-05-22 17:24:44,938: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:24:49,862: Client disconnected
+INFO: 2024-05-22 17:24:51,956: Accepted connection from ('192.168.1.109', 55667)
+INFO: 2024-05-22 17:24:51,956: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55667)>
+INFO: 2024-05-22 17:24:51,957: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:24:56,864: Client disconnected
+INFO: 2024-05-22 17:24:58,973: Accepted connection from ('192.168.1.109', 55668)
+INFO: 2024-05-22 17:24:58,973: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55668)>
+INFO: 2024-05-22 17:24:58,974: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:25:03,869: Client disconnected
+INFO: 2024-05-22 17:25:05,889: Accepted connection from ('192.168.1.109', 55669)
+INFO: 2024-05-22 17:25:05,890: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55669)>
+INFO: 2024-05-22 17:25:05,890: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:25:10,874: Client disconnected
+INFO: 2024-05-22 17:25:14,050: Accepted connection from ('192.168.1.109', 55670)
+INFO: 2024-05-22 17:25:14,051: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55670)>
+INFO: 2024-05-22 17:25:14,051: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:25:18,861: Client disconnected
+INFO: 2024-05-22 17:25:20,962: Accepted connection from ('192.168.1.109', 55671)
+INFO: 2024-05-22 17:25:20,962: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55671)>
+INFO: 2024-05-22 17:25:20,963: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:25:25,866: Client disconnected
+INFO: 2024-05-22 17:25:27,963: Accepted connection from ('192.168.1.109', 55672)
+INFO: 2024-05-22 17:25:27,964: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55672)>
+INFO: 2024-05-22 17:25:27,964: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:25:32,869: Client disconnected
+INFO: 2024-05-22 17:25:34,964: Accepted connection from ('192.168.1.109', 55673)
+INFO: 2024-05-22 17:25:34,965: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55673)>
+INFO: 2024-05-22 17:25:34,965: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:25:39,873: Client disconnected
+INFO: 2024-05-22 17:25:41,972: Accepted connection from ('192.168.1.109', 55674)
+INFO: 2024-05-22 17:25:41,972: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55674)>
+INFO: 2024-05-22 17:25:41,973: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:25:46,854: Client disconnected
+INFO: 2024-05-22 17:25:48,974: Accepted connection from ('192.168.1.109', 55675)
+INFO: 2024-05-22 17:25:48,975: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55675)>
+INFO: 2024-05-22 17:25:48,975: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:25:53,882: Client disconnected
+INFO: 2024-05-22 17:25:55,974: Accepted connection from ('192.168.1.109', 55676)
+INFO: 2024-05-22 17:25:55,974: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.109', 55676)>
+INFO: 2024-05-22 17:25:55,975: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 33 5C 78 33 38 5C 78 36 31   state: {.  id: '\xe6\x63\x38\x61
+5C 78 61 33 5C 78 33 66 5C 78 39 65 5C 78 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   \xa3\x3f\x9e\x2'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:36:02,501: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 17:36:03,235: Accepted connection from ('192.168.1.120', 60037)
+INFO: 2024-05-22 17:36:03,236: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 60037)>
+INFO: 2024-05-22 17:36:03,236: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:36:08,042: Client disconnected
+INFO: 2024-05-22 17:36:08,147: Accepted connection from ('192.168.1.120', 60038)
+INFO: 2024-05-22 17:36:08,148: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 60038)>
+INFO: 2024-05-22 17:36:08,148: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:36:13,080: Client disconnected
+INFO: 2024-05-22 17:36:13,220: Accepted connection from ('192.168.1.120', 60039)
+INFO: 2024-05-22 17:36:13,220: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 60039)>
+INFO: 2024-05-22 17:36:13,221: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:36:18,118: Client disconnected
+INFO: 2024-05-22 17:36:19,962: Accepted connection from ('192.168.1.120', 60040)
+INFO: 2024-05-22 17:36:19,963: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 60040)>
+INFO: 2024-05-22 17:36:19,963: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:36:51,624: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 17:36:51,918: Accepted connection from ('192.168.1.120', 58531)
+INFO: 2024-05-22 17:36:51,918: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58531)>
+INFO: 2024-05-22 17:36:51,919: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:36:56,826: Client disconnected
+INFO: 2024-05-22 17:36:56,963: Accepted connection from ('192.168.1.120', 58532)
+INFO: 2024-05-22 17:36:56,964: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58532)>
+INFO: 2024-05-22 17:36:56,964: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:37:01,863: Client disconnected
+INFO: 2024-05-22 17:37:02,088: Accepted connection from ('192.168.1.120', 58533)
+INFO: 2024-05-22 17:37:02,088: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58533)>
+INFO: 2024-05-22 17:37:02,088: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:37:06,902: Client disconnected
+INFO: 2024-05-22 17:37:07,283: Accepted connection from ('192.168.1.120', 58534)
+INFO: 2024-05-22 17:37:07,283: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58534)>
+INFO: 2024-05-22 17:37:07,284: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:37:12,308: Client disconnected
+INFO: 2024-05-22 17:37:13,282: Accepted connection from ('192.168.1.120', 58535)
+INFO: 2024-05-22 17:37:13,283: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58535)>
+INFO: 2024-05-22 17:37:13,283: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:37:17,792: Client disconnected
+INFO: 2024-05-22 17:37:18,459: Accepted connection from ('192.168.1.120', 58536)
+INFO: 2024-05-22 17:37:18,459: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58536)>
+INFO: 2024-05-22 17:37:18,459: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:37:23,368: Client disconnected
+INFO: 2024-05-22 17:37:23,503: Accepted connection from ('192.168.1.120', 58537)
+INFO: 2024-05-22 17:37:23,504: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58537)>
+INFO: 2024-05-22 17:37:23,504: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:37:28,295: Client disconnected
+INFO: 2024-05-22 17:37:28,678: Accepted connection from ('192.168.1.120', 58538)
+INFO: 2024-05-22 17:37:28,679: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58538)>
+INFO: 2024-05-22 17:37:28,679: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:37:33,321: Client disconnected
+INFO: 2024-05-22 17:37:33,826: Accepted connection from ('192.168.1.120', 58539)
+INFO: 2024-05-22 17:37:33,827: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58539)>
+INFO: 2024-05-22 17:37:33,827: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:37:38,851: Client disconnected
+INFO: 2024-05-22 17:37:39,840: Accepted connection from ('192.168.1.120', 58540)
+INFO: 2024-05-22 17:37:39,840: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58540)>
+INFO: 2024-05-22 17:37:39,840: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:37:44,872: Client disconnected
+INFO: 2024-05-22 17:37:44,978: Accepted connection from ('192.168.1.120', 58541)
+INFO: 2024-05-22 17:37:44,979: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58541)>
+INFO: 2024-05-22 17:37:44,979: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:37:49,802: Client disconnected
+INFO: 2024-05-22 17:37:50,165: Accepted connection from ('192.168.1.120', 58542)
+INFO: 2024-05-22 17:37:50,166: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58542)>
+INFO: 2024-05-22 17:37:50,166: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:37:54,825: Client disconnected
+INFO: 2024-05-22 17:37:55,201: Accepted connection from ('192.168.1.120', 58543)
+INFO: 2024-05-22 17:37:55,201: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58543)>
+INFO: 2024-05-22 17:37:55,201: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:37:59,864: Client disconnected
+INFO: 2024-05-22 17:38:00,363: Accepted connection from ('192.168.1.120', 58544)
+INFO: 2024-05-22 17:38:00,363: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58544)>
+INFO: 2024-05-22 17:38:00,364: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:38:05,393: Client disconnected
+INFO: 2024-05-22 17:38:06,382: Accepted connection from ('192.168.1.120', 58545)
+INFO: 2024-05-22 17:38:06,383: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58545)>
+INFO: 2024-05-22 17:38:06,383: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:38:11,415: Client disconnected
+INFO: 2024-05-22 17:38:11,519: Accepted connection from ('192.168.1.120', 58546)
+INFO: 2024-05-22 17:38:11,520: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58546)>
+INFO: 2024-05-22 17:38:11,520: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:38:16,330: Client disconnected
+INFO: 2024-05-22 17:38:16,589: Accepted connection from ('192.168.1.120', 58547)
+INFO: 2024-05-22 17:38:16,589: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58547)>
+INFO: 2024-05-22 17:38:16,590: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:38:21,368: Client disconnected
+INFO: 2024-05-22 17:38:21,745: Accepted connection from ('192.168.1.120', 58548)
+INFO: 2024-05-22 17:38:21,745: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58548)>
+INFO: 2024-05-22 17:38:21,746: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:38:26,407: Client disconnected
+INFO: 2024-05-22 17:38:26,905: Accepted connection from ('192.168.1.120', 58549)
+INFO: 2024-05-22 17:38:26,906: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58549)>
+INFO: 2024-05-22 17:38:26,906: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:38:31,936: Client disconnected
+INFO: 2024-05-22 17:38:35,376: Accepted connection from ('192.168.1.120', 58550)
+INFO: 2024-05-22 17:38:35,377: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58550)>
+INFO: 2024-05-22 17:38:35,377: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:38:40,414: Client disconnected
+INFO: 2024-05-22 17:38:43,824: Accepted connection from ('192.168.1.120', 58551)
+INFO: 2024-05-22 17:38:43,825: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58551)>
+INFO: 2024-05-22 17:38:43,825: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:38:48,894: Client disconnected
+INFO: 2024-05-22 17:38:49,109: Accepted connection from ('192.168.1.120', 58552)
+INFO: 2024-05-22 17:38:49,109: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58552)>
+INFO: 2024-05-22 17:38:49,110: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:38:53,932: Client disconnected
+INFO: 2024-05-22 17:38:54,305: Accepted connection from ('192.168.1.120', 58553)
+INFO: 2024-05-22 17:38:54,305: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58553)>
+INFO: 2024-05-22 17:38:54,305: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:38:58,822: Client disconnected
+INFO: 2024-05-22 17:38:59,348: Accepted connection from ('192.168.1.120', 58554)
+INFO: 2024-05-22 17:38:59,349: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58554)>
+INFO: 2024-05-22 17:38:59,349: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:39:04,376: Client disconnected
+INFO: 2024-05-22 17:39:05,489: Accepted connection from ('192.168.1.120', 58555)
+INFO: 2024-05-22 17:39:05,490: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58555)>
+INFO: 2024-05-22 17:39:05,490: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:39:10,400: Client disconnected
+INFO: 2024-05-22 17:39:10,545: Accepted connection from ('192.168.1.120', 58556)
+INFO: 2024-05-22 17:39:10,545: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58556)>
+INFO: 2024-05-22 17:39:10,545: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:39:15,436: Client disconnected
+INFO: 2024-05-22 17:39:15,647: Accepted connection from ('192.168.1.120', 58557)
+INFO: 2024-05-22 17:39:15,648: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58557)>
+INFO: 2024-05-22 17:39:15,648: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:39:20,353: Client disconnected
+INFO: 2024-05-22 17:39:20,851: Accepted connection from ('192.168.1.120', 58558)
+INFO: 2024-05-22 17:39:20,852: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58558)>
+INFO: 2024-05-22 17:39:20,852: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:39:25,882: Client disconnected
+INFO: 2024-05-22 17:39:26,872: Accepted connection from ('192.168.1.120', 58559)
+INFO: 2024-05-22 17:39:26,872: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58559)>
+INFO: 2024-05-22 17:39:26,873: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:39:31,902: Client disconnected
+INFO: 2024-05-22 17:39:32,005: Accepted connection from ('192.168.1.120', 58560)
+INFO: 2024-05-22 17:39:32,005: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58560)>
+INFO: 2024-05-22 17:39:32,005: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:39:36,943: Client disconnected
+INFO: 2024-05-22 17:39:37,074: Accepted connection from ('192.168.1.120', 58561)
+INFO: 2024-05-22 17:39:37,075: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58561)>
+INFO: 2024-05-22 17:39:37,075: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:39:41,854: Client disconnected
+INFO: 2024-05-22 17:39:42,229: Accepted connection from ('192.168.1.120', 58562)
+INFO: 2024-05-22 17:39:42,230: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58562)>
+INFO: 2024-05-22 17:39:42,230: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:39:46,895: Client disconnected
+INFO: 2024-05-22 17:39:47,430: Accepted connection from ('192.168.1.120', 58563)
+INFO: 2024-05-22 17:39:47,430: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58563)>
+INFO: 2024-05-22 17:39:47,431: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:39:52,425: Client disconnected
+INFO: 2024-05-22 17:39:53,423: Accepted connection from ('192.168.1.120', 58564)
+INFO: 2024-05-22 17:39:53,423: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58564)>
+INFO: 2024-05-22 17:39:53,424: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:39:58,443: Client disconnected
+INFO: 2024-05-22 17:39:58,547: Accepted connection from ('192.168.1.120', 58565)
+INFO: 2024-05-22 17:39:58,547: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58565)>
+INFO: 2024-05-22 17:39:58,547: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:40:03,498: Client disconnected
+INFO: 2024-05-22 17:40:03,625: Accepted connection from ('192.168.1.120', 58566)
+INFO: 2024-05-22 17:40:03,625: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58566)>
+INFO: 2024-05-22 17:40:03,625: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:40:08,397: Client disconnected
+INFO: 2024-05-22 17:40:08,773: Accepted connection from ('192.168.1.120', 58567)
+INFO: 2024-05-22 17:40:08,773: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58567)>
+INFO: 2024-05-22 17:40:08,773: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:40:13,437: Client disconnected
+INFO: 2024-05-22 17:40:13,934: Accepted connection from ('192.168.1.120', 58568)
+INFO: 2024-05-22 17:40:13,935: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58568)>
+INFO: 2024-05-22 17:40:13,935: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:40:18,967: Client disconnected
+INFO: 2024-05-22 17:40:19,955: Accepted connection from ('192.168.1.120', 58569)
+INFO: 2024-05-22 17:40:19,955: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58569)>
+INFO: 2024-05-22 17:40:19,956: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:40:24,986: Client disconnected
+INFO: 2024-05-22 17:40:25,092: Accepted connection from ('192.168.1.120', 58570)
+INFO: 2024-05-22 17:40:25,092: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58570)>
+INFO: 2024-05-22 17:40:25,092: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:40:29,902: Client disconnected
+INFO: 2024-05-22 17:40:32,482: Accepted connection from ('192.168.1.120', 58571)
+INFO: 2024-05-22 17:40:32,483: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58571)>
+INFO: 2024-05-22 17:40:32,483: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:40:37,395: Client disconnected
+INFO: 2024-05-22 17:40:38,275: Accepted connection from ('192.168.1.120', 58572)
+INFO: 2024-05-22 17:40:38,275: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58572)>
+INFO: 2024-05-22 17:40:38,276: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:40:42,868: Client disconnected
+INFO: 2024-05-22 17:40:43,364: Accepted connection from ('192.168.1.120', 58573)
+INFO: 2024-05-22 17:40:43,365: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58573)>
+INFO: 2024-05-22 17:40:43,365: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:40:48,370: Client disconnected
+INFO: 2024-05-22 17:40:49,479: Accepted connection from ('192.168.1.120', 58574)
+INFO: 2024-05-22 17:40:49,480: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58574)>
+INFO: 2024-05-22 17:40:49,480: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:40:54,483: Client disconnected
+INFO: 2024-05-22 17:40:54,584: Accepted connection from ('192.168.1.120', 58575)
+INFO: 2024-05-22 17:40:54,584: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58575)>
+INFO: 2024-05-22 17:40:54,584: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:40:59,399: Client disconnected
+INFO: 2024-05-22 17:40:59,792: Accepted connection from ('192.168.1.120', 58576)
+INFO: 2024-05-22 17:40:59,793: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58576)>
+INFO: 2024-05-22 17:40:59,793: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:41:04,437: Client disconnected
+INFO: 2024-05-22 17:41:04,814: Accepted connection from ('192.168.1.120', 58577)
+INFO: 2024-05-22 17:41:04,814: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58577)>
+INFO: 2024-05-22 17:41:04,814: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:41:09,450: Client disconnected
+INFO: 2024-05-22 17:41:09,944: Accepted connection from ('192.168.1.120', 58578)
+INFO: 2024-05-22 17:41:09,944: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58578)>
+INFO: 2024-05-22 17:41:09,945: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:41:14,886: Client disconnected
+INFO: 2024-05-22 17:41:15,035: Accepted connection from ('192.168.1.120', 58579)
+INFO: 2024-05-22 17:41:15,035: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58579)>
+INFO: 2024-05-22 17:41:15,036: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:41:19,889: Client disconnected
+INFO: 2024-05-22 17:41:20,126: Accepted connection from ('192.168.1.120', 58580)
+INFO: 2024-05-22 17:41:20,126: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58580)>
+INFO: 2024-05-22 17:41:20,126: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:41:24,958: Client disconnected
+INFO: 2024-05-22 17:41:25,244: Accepted connection from ('192.168.1.120', 58581)
+INFO: 2024-05-22 17:41:25,244: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58581)>
+INFO: 2024-05-22 17:41:25,245: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:41:29,998: Client disconnected
+INFO: 2024-05-22 17:41:30,354: Accepted connection from ('192.168.1.120', 58582)
+INFO: 2024-05-22 17:41:30,354: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58582)>
+INFO: 2024-05-22 17:41:30,355: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:41:34,895: Client disconnected
+INFO: 2024-05-22 17:41:35,534: Accepted connection from ('192.168.1.120', 58583)
+INFO: 2024-05-22 17:41:35,535: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58583)>
+INFO: 2024-05-22 17:41:35,535: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:41:40,443: Client disconnected
+INFO: 2024-05-22 17:41:40,548: Accepted connection from ('192.168.1.120', 58584)
+INFO: 2024-05-22 17:41:40,548: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58584)>
+INFO: 2024-05-22 17:41:40,548: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:41:45,480: Client disconnected
+INFO: 2024-05-22 17:41:45,658: Accepted connection from ('192.168.1.120', 58585)
+INFO: 2024-05-22 17:41:45,658: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58585)>
+INFO: 2024-05-22 17:41:45,658: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:41:50,402: Client disconnected
+INFO: 2024-05-22 17:41:50,777: Accepted connection from ('192.168.1.120', 58586)
+INFO: 2024-05-22 17:41:50,778: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58586)>
+INFO: 2024-05-22 17:41:50,778: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:41:55,405: Client disconnected
+INFO: 2024-05-22 17:41:55,897: Accepted connection from ('192.168.1.120', 58587)
+INFO: 2024-05-22 17:41:55,898: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58587)>
+INFO: 2024-05-22 17:41:55,898: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:42:00,472: Client disconnected
+INFO: 2024-05-22 17:42:01,093: Accepted connection from ('192.168.1.120', 58588)
+INFO: 2024-05-22 17:42:01,093: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58588)>
+INFO: 2024-05-22 17:42:01,094: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:42:05,974: Client disconnected
+INFO: 2024-05-22 17:42:06,085: Accepted connection from ('192.168.1.120', 58589)
+INFO: 2024-05-22 17:42:06,085: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58589)>
+INFO: 2024-05-22 17:42:06,086: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:42:10,968: Client disconnected
+INFO: 2024-05-22 17:42:13,473: Accepted connection from ('192.168.1.120', 58590)
+INFO: 2024-05-22 17:42:13,473: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58590)>
+INFO: 2024-05-22 17:42:13,474: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:42:18,535: Client disconnected
+INFO: 2024-05-22 17:42:19,403: Accepted connection from ('192.168.1.120', 58591)
+INFO: 2024-05-22 17:42:19,403: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58591)>
+INFO: 2024-05-22 17:42:19,403: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:42:23,944: Client disconnected
+INFO: 2024-05-22 17:42:26,486: Accepted connection from ('192.168.1.120', 58592)
+INFO: 2024-05-22 17:42:26,486: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58592)>
+INFO: 2024-05-22 17:42:26,486: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:42:31,438: Client disconnected
+INFO: 2024-05-22 17:42:34,347: Accepted connection from ('192.168.1.120', 58593)
+INFO: 2024-05-22 17:42:34,348: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58593)>
+INFO: 2024-05-22 17:42:34,348: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:42:38,937: Client disconnected
+INFO: 2024-05-22 17:42:40,382: Accepted connection from ('192.168.1.120', 58594)
+INFO: 2024-05-22 17:42:40,382: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58594)>
+INFO: 2024-05-22 17:42:40,383: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:42:44,957: Client disconnected
+INFO: 2024-05-22 17:42:45,825: Accepted connection from ('192.168.1.120', 58595)
+INFO: 2024-05-22 17:42:45,826: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58595)>
+INFO: 2024-05-22 17:42:45,826: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:42:50,487: Client disconnected
+INFO: 2024-05-22 17:42:50,860: Accepted connection from ('192.168.1.120', 58596)
+INFO: 2024-05-22 17:42:50,860: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58596)>
+INFO: 2024-05-22 17:42:50,860: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:42:55,523: Client disconnected
+INFO: 2024-05-22 17:42:55,945: Accepted connection from ('192.168.1.120', 58597)
+INFO: 2024-05-22 17:42:55,946: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58597)>
+INFO: 2024-05-22 17:42:55,946: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:43:15,356: Listening on 0.0.0.0:4242
+INFO: 2024-05-22 17:43:19,489: Accepted connection from ('192.168.1.120', 58611)
+INFO: 2024-05-22 17:43:19,489: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58611)>
+INFO: 2024-05-22 17:43:19,489: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+
+INFO: 2024-05-22 17:43:24,524: Client disconnected
+INFO: 2024-05-22 17:43:24,625: Accepted connection from ('192.168.1.120', 58612)
+INFO: 2024-05-22 17:43:24,625: <- 72 bytes received <socket.socket fd=5, family=2, type=1, proto=0, laddr=('192.168.1.169', 4242), raddr=('192.168.1.120', 58612)>
+INFO: 2024-05-22 17:43:24,625: dumping data...
+73 74 61 74 65 3A 20 7B 0A 20 20 69 64 3A 20 27 5C 78 65 36 5C 78 36 31 5C 78 34 31 5C 78 33 5C   state: {.  id: '\xe6\x61\x41\x3\
+78 65 37 5C 78 35 39 5C 78 37 36 5C 78 32 32 27 0A 20 20 69 73 5F 72 65 61 63 68 61 62 6C 65 3A   xe7\x59\x76\x22'.  is_reachable:
+20 79 65 73 0A 7D 0A 00                                                                            yes.}..
+

@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  pico-dev:
+    hostname: ${HOST_NAME}
+    env_file:
+      - .env
+    tty: true
+    privileged: true
+    cap_add:
+      - ALL
+    working_dir: /root
+    build:
+      context: ${DEV_DISTRO}
+      dockerfile: Dockerfile
+    volumes:
+      - ./source:/root/source
+      - ./shared:/root/shared
+    ports:
+      - '0.0.0.0:7000:3000'
+    expose:
+      - 7000

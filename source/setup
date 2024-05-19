@@ -1,0 +1,88 @@
+#!/bin/bash
+
+source env.sh
+
+set -euo pipefail
+
+readonly BUILD_DIR="build"
+readonly SDK_PATH="/opt/pico-sdk"
+readonly SDK_REPO="https://github.com/raspberrypi/pico-sdk.git"
+readonly ENV_PATH="env.sh"
+
+readonly SSH_HOST="192.168.1.48"
+readonly SSH_USER_HOME="/home/pico"
+
+function DisplayUsage()
+{
+    cat << __EOF__
+Usage: $(basename "${0}") [option]
+Options:
+      build - build from source
+     reboot - try and reboot the pico
+       load - try and load built *.uf2 into the pico
+       post - post the file to the remote directory
+
+__EOF__
+}
+
+function Build()
+{
+  [[ ! -e "incs/lwipopts.h" ]] && (
+    cd incs
+    wget https://raw.githubusercontent.com/raspberrypi/pico-examples/master/pico_w/wifi/lwipopts_examples_common.h 
+    mv lwipopts_examples_common.h lwipopts.h 
+  )
+
+  [[ ! -d "${BUILD_DIR}" ]] && mkdir "${BUILD_DIR}"
+
+  cd "${BUILD_DIR}"
+  cmake -DCMAKE_BUILD_TYPE=Debug ..
+  make -j10
+}
+
+function Debug()
+{
+  ssh \
+    pico@"${SSH_HOST}" \
+    "sudo openocd -f interface/cmsis-dap.cfg -f target/rp2040.cfg -c 'adapter speed 5000'"
+}
+
+function Post()
+{
+  scp \
+    "${1}" \
+    pico@"${SSH_HOST}":"${SSH_USER_HOME}"/posts
+}
+
+function Follow()
+{
+  ssh \
+    pico@"${SSH_HOST}" \
+    "tail -f /dev/ttyACM0"
+}
+
+function Clean()
+{
+  [[ "${BUILD_DIR}" != "build" ]] \
+    && echo attempted to rm rf a BUILD_DIR that is not called "build" \
+    && exit 1
+  
+  rm -rf "${BUILD_DIR}"
+}
+
+if [[ "${#}" -lt 1 ]]
+    then DisplayUsage;
+    else
+    {
+        case "${1}" in
+            build  ) Build ;;
+            follow ) Follow ;; 
+            post   ) Post "${2}" ;;
+            clean  ) Clean ;;
+            load   ) sudo picotool load -f "${2}" ;;
+            debug  ) Debug ;;
+            reboot ) sudo picotool reboot ;;
+            *      ) DisplayUsage && exit 1 ;;
+        esac
+    }
+fi

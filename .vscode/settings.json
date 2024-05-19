@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "cyw43_arch.h": "c",
+    "unique_id.h": "c",
+    "stringf.h": "c",
+    "stdbool.h": "c",
+    "core.h": "c",
+    "__locale": "c",
+    "algorithm": "c",
+    "filesystem": "c",
+    "locale": "c",
+    "memory": "c",
+    "state.h": "c",
+    "complex": "c"
+  },
+  "cmake.configureOnOpen": true
+}
