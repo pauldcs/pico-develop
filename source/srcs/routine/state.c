@@ -14,6 +14,11 @@ bool state_init(void) {
 
 void state_update(void) {
   g_state->is_reachable = wifi_assure_connection();
+  if (g_state->is_reachable) {
+    set_blink_success();
+  } else {
+    set_blink_waiting();
+  }
 }
 
 void state_print(void) {
@@ -38,9 +43,9 @@ void state_print(void) {
 }
 
 char  *state_get(void) {
-  static char state[512];
+  // static char state[512];
 
-  char id_buf[32];
+  static char id_buf[64];
   (void)slcpyf(
     id_buf,
     32, "\\x%x\\x%x\\x%x\\x%x\\x%x\\x%x\\x%x\\x%x",
@@ -50,17 +55,17 @@ char  *state_get(void) {
     g_state->id[6], g_state->id[7]
   );
 
-  size_t size = slcpyf(
-    state,
-    512,
-    "state: {\n"
-    "  id: '%s'\n"
-    "  is_reachable: %s\n"
-    "}\n",
-    id_buf,
-    g_state->is_reachable ? "yes" : "no"
-  );
+  // size_t size = slcpyf(
+  //   state,
+  //   512,
+  //   "state: {\n"
+  //   "  id: '%s'\n"
+  //   "  is_reachable: %s\n"
+  //   "}\n",
+  //   id_buf,
+  //   g_state->is_reachable ? "yes" : "no"
+  // );
 
-  state[size] = 0;
-  return state;
+  id_buf[33] = 0;
+  return id_buf;
 }

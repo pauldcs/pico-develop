@@ -7,12 +7,17 @@
 # include <sys/types.h>
 
 const char *time_string(void);
-ssize_t hexdump(const uint8_t *addr, size_t n, size_t offset);
 /*
  *    Goes in an infinite blinking loop.
  */
 void system_die(void);
-void blink_once(void);
+
+void set_blink_success(void);
+void set_blink_error(void);
+void set_blink_waiting(void);
+void blink_twice(void);
+
+void core1_entry(void);
 
 /*
  *    Main program loop.

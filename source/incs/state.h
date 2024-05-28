@@ -10,12 +10,13 @@ typedef struct {
 } state_t;
 
 extern state_t *g_state;
+extern int blink_speed;
 
 bool state_init(void);
 void state_update(void);
 void state_print(void);
 char  *state_get(void);
 
-void tcp_signal(void);
+bool tcp_signal(void);
 
 #endif /* __STATE_H__ */

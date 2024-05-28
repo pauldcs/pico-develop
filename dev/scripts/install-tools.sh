@@ -10,11 +10,9 @@ sudo apt-get install -y \
 \
   build-essential         \
   curl                    \
-  tree                    \
   wget                    \
   vim                     \
   cmake                   \
-  lldb                    \
   clang                   \
   git                     \
   gdb-multiarch           \

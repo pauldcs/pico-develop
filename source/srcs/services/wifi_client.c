@@ -26,10 +26,6 @@ bool wifi_try_connect(void) {
     return (false);
   }
 
-  for(int i = 2; i; i--) {
-    blink_once();
-  }
-
   (void)fprintf(stderr,
     "%s: info: Wi-Fi connected\n", time_string()
   );
@@ -40,10 +36,6 @@ bool wifi_try_connect(void) {
 bool wifi_assure_connection(void) {
   if (wifi_is_connected()) {
     return (true);
-  }
-
-  for(int i = 5; i; i--) {
-    blink_once();
   }
 
   (void)fprintf(stderr,

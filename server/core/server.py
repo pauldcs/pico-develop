@@ -1,6 +1,7 @@
 import select
 import socket
 import sys
+import signal
 import time
 from abc import ABC, abstractmethod
 
@@ -24,7 +25,6 @@ def hexdump(data, bytes_per_line=32):
         result += f'{hex_line.ljust(32 * 3)}  {ascii_line}\n'
     
     return result
-
 
 class Command(ABC):
     @abstractmethod
@@ -63,6 +63,9 @@ class Server:
         self._srv_sock = None
         self._cli_sock = None
         self._cli_addr = None
+
+    def handle_signal(self, sig, frame):
+        sys.exit(0)
 
     def bind_server_socket(self):
         retry_delay = 1
@@ -144,6 +147,9 @@ class Server:
     def start_server(self):
         close_socket_command = CloseSocketCommand(None, self._logger)
         delay = 0.1
+
+        signal.signal(signal.SIGALRM, self.handle_signal)
+        signal.signal(signal.SIGINT, self.handle_signal)
 
         self._srv_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         self._srv_sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)

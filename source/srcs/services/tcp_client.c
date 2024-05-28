@@ -59,7 +59,6 @@ static err_t tcp_client_close(void *arg) {
       tcp_arg(state->tcp_pcb, NULL);
       tcp_poll(state->tcp_pcb, NULL, 0);
       tcp_sent(state->tcp_pcb, NULL);
-      tcp_recv(state->tcp_pcb, NULL);
       tcp_err(state->tcp_pcb, NULL);
       err = tcp_close(state->tcp_pcb);
       if (err != ERR_OK) {
@@ -79,9 +78,13 @@ static err_t tcp_client_close(void *arg) {
 }
 
 
-static err_t tcp_result(void *arg, int status) {
+static err_t tcp_end(void *arg, bool status) {
   TCP_CLIENT_T *state = (TCP_CLIENT_T*)arg;
   state->complete = true;
+  (void)fprintf(stderr,
+    "info: closing connection with state: %s\n", status ? "ok" : "ko"
+  );
+
   return tcp_client_close((void*)state);
 }
 
@@ -92,13 +95,19 @@ static err_t tcp_client_sent(void *arg, struct tcp_pcb *tpcb, u16_t len) {
   if (state->sent_len >= BUF_SIZE) {
     state->run_count++;
     if (state->run_count >= TEST_ITERATIONS) {
-      return (tcp_result(state, 0));
+      (void)fprintf(stderr,
+        "error: run_count >= %d\n", TEST_ITERATIONS
+      );
+      return (tcp_end(state, false));
     }
 
     state->buffer_len = 0;
     state->sent_len = 0;
   }
 
+  (void)fprintf(stderr,
+    "info: did not send all data yet\n"
+  );
   return (ERR_OK);
 }
 
@@ -106,12 +115,10 @@ static err_t tcp_client_connected(void *arg, struct tcp_pcb *tpcb, err_t err) {
   TCP_CLIENT_T *state = (TCP_CLIENT_T*)arg;
   if (err != ERR_OK) {
     (void)fprintf(stderr,
-      "%s: error: connection failed: %s\n",
-        time_string(),
-        lwip_strerr(err)
+      "error: connection failed: %s\n", lwip_strerr(err)
     );
       
-    return tcp_result(arg, err);
+    return tcp_end(arg, err);
   }
   
   const char *data = state_get();
@@ -119,84 +126,25 @@ static err_t tcp_client_connected(void *arg, struct tcp_pcb *tpcb, err_t err) {
 
   state->connected = true;
   (void)fprintf(stderr,
-    "%s: info: sending %d bytes\n",
-      time_string(),
-      data_size
+    "info: sending %d bytes\n", data_size
   );
   
   return (tcp_write(tpcb, data, data_size, TCP_WRITE_FLAG_MORE));
 }
 
 static err_t tcp_client_poll(void *arg, struct tcp_pcb *tpcb) {
-  (void)fprintf(stderr,
-    "%s: info: Timed out\n",
-      time_string()
-  );
-  
-  return tcp_result(arg, -1);
+  (void)fprintf(stderr, "info: Timed out\n");
+  return tcp_end(arg, false);
 }
 
 static void tcp_client_err(void *arg, err_t err) {
     if (err != ERR_ABRT) {
       (void)fprintf(stderr,
-        "%s: error: tcp_client_err: %s\n",
-          time_string(),
-          lwip_strerr(err)
+        "error: tcp_client_err: %s\n", lwip_strerr(err)
       );
       
-      tcp_result(arg, err);
+      tcp_end(arg, false);
     }
-}
-
-err_t tcp_client_recv(void *arg, struct tcp_pcb *tpcb, struct pbuf *p, err_t err) {
-  TCP_CLIENT_T *state = (TCP_CLIENT_T*)arg;
-
-  if (!p) {
-    return tcp_result(state, -1);
-  }
-
-  cyw43_arch_lwip_check();
-  
-  if (p->tot_len > 0) {
-    (void)fprintf(stderr,
-      "%s: info: Received: %d\n", time_string(), p->tot_len
-    );
-      
-    const uint16_t buffer_left = BUF_SIZE - state->buffer_len;
-    state->buffer_len += pbuf_copy_partial(
-      p,
-      state->buffer + state->buffer_len,
-      p->tot_len > buffer_left
-        ? buffer_left
-        : p->tot_len,
-      0
-    );
-      
-    tcp_recved(tpcb, p->tot_len);
-  }
-  
-  pbuf_free(p);
-
-  // If we have received the whole buffer, send it back to the server
-  if (state->buffer_len == BUF_SIZE) {
-    (void)fprintf(stderr,
-      "%s: info: Sending %d bytes to server\n",
-        time_string(),
-        state->buffer_len
-    );
-
-    err_t err = tcp_write(tpcb, state->buffer, state->buffer_len, TCP_WRITE_FLAG_COPY);
-    if (err != ERR_OK) {
-      (void)fprintf(stderr,
-        "%s: error: failed to send data: %s\n",
-          time_string(),
-          lwip_strerr(err)
-      );
- 
-      return tcp_result(state, -1);
-    }
-  }
-  return (ERR_OK);
 }
 
 static bool tcp_client_open(void *arg) {
@@ -207,8 +155,7 @@ static bool tcp_client_open(void *arg) {
   uint8_t ip_type = IP_GET_TYPE(&client->remote_addr);
   
   (void)fprintf(stderr,
-    "%s: info: Attempting new TCP connection to %s:%d\n",
-    time_string(), 
+    "info: Attempting new TCP connection to %s:%d\n",
     ip4addr_ntoa(&client->remote_addr),
     TCP_PORT
   );
@@ -216,8 +163,7 @@ static bool tcp_client_open(void *arg) {
   struct tcp_pcb *tcp_pcb = tcp_new_ip_type(ip_type);
   if (!tcp_pcb) {
     (void)fprintf(stderr,
-      "%s: error: Failed to get a new protocol control block\n",
-      time_string()
+      "error: Failed to get a new protocol control block\n"
     );
   
     return (false);
@@ -226,7 +172,6 @@ static bool tcp_client_open(void *arg) {
   tcp_arg(tcp_pcb, client);
   tcp_poll(tcp_pcb, tcp_client_poll, POLL_TIME_S * 2);
   tcp_sent(tcp_pcb, tcp_client_sent);
-  tcp_recv(tcp_pcb, tcp_client_recv);
   tcp_err(tcp_pcb, tcp_client_err);
 
   client->tcp_pcb = tcp_pcb;
@@ -245,9 +190,7 @@ static bool tcp_client_open(void *arg) {
 
   if (err != ERR_OK) {
     (void)fprintf(stderr,
-      "%s: error: Failed to establish a connection: %s\n",
-      time_string(),
-      lwip_strerr(err)
+      "error: Failed to establish a connection: %s\n", lwip_strerr(err)
     );
     return (false);
   }
@@ -258,20 +201,14 @@ static bool tcp_client_open(void *arg) {
 static TCP_CLIENT_T* tcp_client_init(void) {
     TCP_CLIENT_T *state = malloc(sizeof(TCP_CLIENT_T));
     if (!state) {
-      (void)fprintf(stderr,
-        "%s: error: Out of memory\n",
-        time_string()
-      );
+      (void)fprintf(stderr, "error: Out of memory\n");
       return (NULL);
     }
   
     (void)memset(state, 0x00, sizeof(TCP_CLIENT_T));
     
     if (!ip4addr_aton(TCP_SERVER_IP, &state->remote_addr)) {
-      (void)fprintf(stderr,
-        "%s: error: IP is invalid\n",
-        time_string()
-      );
+      (void)fprintf(stderr, "error: IP is invalid\n");
       free(state);
       return (NULL);
     }
@@ -279,28 +216,27 @@ static TCP_CLIENT_T* tcp_client_init(void) {
     return state;
 }
 
-void tcp_signal(void) {
+bool tcp_signal(void) {
     TCP_CLIENT_T *state = tcp_client_init();
     if (!state) {
         goto hell;
     }
   
     if (!tcp_client_open(state)) {
-        tcp_result(state, -1);
-        return;
+        free(state);
+        return (false);
     }
   
     while(!state->complete) {
-        sleep_ms(1000);
+        printf("waiting\n");
+        sleep_ms(500);
     }
   
     free(state);
-    return;
+    return (true);
   
 hell:
   free(state);
-  (void)fprintf(stderr,
-    "%s: error: Could not send a tcp signal\n",
-    time_string()
-  );
+  (void)fprintf(stderr, "error: Could not send a tcp signal\n");
+  return (false);
 }

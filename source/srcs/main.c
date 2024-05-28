@@ -1,8 +1,8 @@
 #include "core.h"
 #include "array.h"
 #include "core.h"
+#include "pico/multicore.h"
 #include "pico/stdlib.h"
-#include "pico/cyw43_arch.h"
 #include "stringf.h"
 #include "state.h"
 #include <stdbool.h>
@@ -47,15 +47,13 @@ static inline void service_deinit(void) {
 
 __attribute__(())
 
-void blink_once(void) {
-  cyw43_arch_gpio_put(CYW43_WL_GPIO_LED_PIN, true);
-  sleep_ms(50);
-  cyw43_arch_gpio_put(CYW43_WL_GPIO_LED_PIN, false);
-  sleep_ms(50);
-}
-
 int main(void) {
+    
     service_init();
+    
+    multicore_launch_core1(core1_entry);
+    
     service_run();
+    
     service_deinit();
 }

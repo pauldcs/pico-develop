@@ -10,10 +10,13 @@
 
 void service_run(void) {
   if (state_init()) {
-    for (;;) {
+    for (;; sleep_ms(DEFAULT_TIME_SLEEP_MS)) {
       state_update();
-      tcp_signal();
-      blink_once();
+      if (tcp_signal()) {
+        blink_twice();
+      } else {
+        sleep_ms(DEFAULT_TIME_SLEEP_MS);
+      }
     }
   }
 
